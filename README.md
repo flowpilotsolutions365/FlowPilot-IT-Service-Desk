@@ -232,39 +232,6 @@ Actions:
 * AI-Powered Ticket Categorization
 * Reporting and Analytics
 
----
-
-## Screenshots
-
-### Home Dashboard
-
-(Add Screenshot Here)
-
-### Raise Ticket Screen
-
-(Add Screenshot Here)
-
-### Success Screen
-
-(Add Screenshot Here)
-
-### My Tickets Screen
-
-(Add Screenshot Here)
-
-### Ticket Details Screen
-
-(Add Screenshot Here)
-
-### IT Dashboard
-
-(Add Screenshot Here)
-
-### Power Automate Flow
-
-(Add Screenshot Here)
-
----
 
 ## Author
 
